@@ -1,0 +1,6 @@
+* text=auto
+*.gxw binary
+*.gt32 binary
+hmi/** binary
+*.pptx binary
+*.webp binary
